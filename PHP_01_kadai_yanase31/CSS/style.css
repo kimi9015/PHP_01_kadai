@@ -1,0 +1,16 @@
+.hyoudai {
+    font-weight: bolder;
+    color: white;
+    background-color: darkorange;
+}
+
+table{
+    text-align: center;
+    border-collapse: collapse;
+    border: solid 2px black;
+    width: 100%;
+}
+
+table th, table td {
+    border: dashed 1px black;
+}
